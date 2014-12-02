@@ -1,0 +1,348 @@
+/* this is a custom CSS stylesheet */
+
+
+body {
+    margin: 0px;
+    font-family: 'Radley', serif;
+    font-size: 13px;
+    line-height: 150%;
+    color: rgb(68, 68, 68);
+    background-color: #E0E0E0;
+}
+
+.background {
+    background-color: #E0E0E0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+
+}
+
+h1 {
+    font-family: 'Ruda', sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    
+}
+
+h2 {
+    font-family: 'Radley', serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(68, 68, 68);
+    line-height: 150%;
+}
+
+h3 {
+    font-family: 'Ruda', sans-serif;
+    font-size: 19px;
+    line-height: 1.647;
+    font-weight: 900;
+    color: #444444;
+    margin: 0 0 20px;
+}
+
+.mainText {
+    font-family: 'Radley', serif;
+    font-size: 19px;
+    line-height: 200%;
+    color: rgb(68, 68, 68);
+    padding-left: 25px;
+    margin-top: 1px;
+    margin-bottom: 25px;
+}
+
+#bigMain {
+    font-family: 'Radley', serif;
+    font-size: 41px;
+    line-height: 100%;
+    color: rgb(68, 68, 68);
+    font-weight: 900;
+    margin-bottom: 10px;
+
+}
+
+.jumboText {
+    position: relative;
+    padding-top: 20px;
+    margin-left: -35px;
+    font-size: 6vw;
+    padding-bottom: 25px;
+}
+
+#thisText {
+    color: #C80000;
+}
+
+.jumbotron {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    padding: 0 0 0 0;
+    margin-bottom: 0;
+}
+
+.pad-theme-top {
+    margin-top: 60px;
+}
+
+.pad-top {
+    margin-top: 30px;
+}
+
+.pad-top-more {
+    margin-top: 70px;
+}
+
+
+
+.border-small {
+    border-top-style: solid;
+    border-top-color: #444444;
+    border-top-width: 1px;
+
+}
+
+.mini-orange-block {
+    background: #C80000;
+    width: 2%;
+    height: 45px;
+    margin: auto;
+    margin-left: -10px;
+    float: left;
+}
+
+
+.countdown-text {
+    padding-top: 20px;
+    font-family: 'Ruda', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    color: white;
+    margin-bottom: -20px;
+    margin-left: -20px;
+}
+
+#clock {
+    height: 100px;
+    margin-top: 5px;
+}
+
+#countdownDescription ul {
+    margin: 0;
+    list-style-type: none;
+    margin-left: -20px;
+    padding-left: 0;
+}
+
+#countdownDescription ul li {
+    display: inline;
+    font-family: 'Ruda', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    color: #CCFF66;
+    padding-right: 80px;
+
+}
+
+#hours {
+    padding-left: 20px;
+}
+
+.wrapper {
+    margin-left: -25px;
+}
+
+.county {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.countyDescription {
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 20px;
+    line-height: 190%;
+    color: white;
+    text-align: left;
+    background-color: rgb(68, 68, 68);
+    width: 100%;
+    padding: 20px;
+    border: 0px;
+    border-radius: 7px;
+}
+
+
+#million {
+    width: 123%;
+    padding: 0 0 20px 0;
+    margin-left: -18px;
+}
+
+#brain {
+    width: 79%;
+    padding: 0 0 0 0;
+}
+
+#lbs {
+    font-family: 'Ruda', sans-serif;
+    font-size: 38px;
+    margin: auto;
+    font-weight: 900;
+    color: #C80000;
+    margin-bottom: -10px;
+}
+
+#scale {
+    width: 99%;
+    padding: 0 0 10px 0;
+}
+
+#dollar {
+    width: 99%;
+}
+
+#dollarText {
+    line-height: 1;
+}
+
+#cents {
+    font-family: 'Ruda', sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    color: #C80000;
+    margin-bottom: -10px;
+    margin-top: -30px;
+}
+
+#plates {
+    width: 99%;
+    padding-bottom: 5px;
+}
+
+#lbsText {
+    font-weight: 900;
+}
+
+#lbsNumbers {
+    color: #C80000;
+    font-family: 'Ruda', sans-serif;
+    font-size: 38px;
+}
+
+.api-area {
+    padding: 6px 10px 0px 34px; 
+    background: #444444;
+    width: 100%;
+    height: 585px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+
+.branchHeader {
+    padding-top: 10px;
+    font-family: 'Ruda', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    margin-left: -20px;
+    color: white;
+
+}
+
+
+#map-canvas {
+    height: 270px;
+    margin-top: 5px;
+    width: 97%;
+    margin-left: -20px;
+    border-radius: 19px;
+
+}
+
+.minispace {
+    padding-top: 12px;
+    margin-left: -20px;
+    color: white;
+    
+}
+
+
+.flickrHeader {
+    padding-top: 20px;
+    font-family: 'Ruda', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    margin-left: 10px;
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+.flickrImages {
+    margin-top: 5px;
+    width: 85px;
+    height: 85px;
+    float: left;
+    display: inline-block;
+    margin: 5px 9px 11px 8px;
+    border: 5px solid white;
+    background-position: center center;
+    background-size: cover;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+
+
+}
+
+#flickrCaption {
+    font-size: 8px;
+    font-style: italic;
+}
+
+
+.twitterHeader {
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Ruda', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    color: white;
+
+}
+
+.date {
+    font-style: italic;
+    font-size: 11px;
+    margin-bottom: -2px;
+    color: #CCFF66;
+}
+
+.tweet {
+    margin-bottom: -15px;
+    line-height: 125%;
+    color: white;
+
+}
+
+.twitter_column {
+    width: 100%;
+    height: 400px;
+}
+
+#sources {
+    margin: auto;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    background-color: #C80000;
+    padding-top: 20px;
+    font-family: 'Ruda', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: white;
+}
